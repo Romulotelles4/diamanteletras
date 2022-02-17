@@ -27,7 +27,7 @@ namespace diamantex
 
                 if (i == 65)
                 {
-                    Console.WriteLine();
+                    Console.WriteLine("\n");
                 }
                 else
                 {
